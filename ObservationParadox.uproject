@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "Games",
+	"Description": "OBSERVATION: PARADOX - A revolutionary psychological open-world game exploring quantum mechanics and reality perception",
+	"Modules": [
+		{
+			"Name": "ObservationParadox",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
